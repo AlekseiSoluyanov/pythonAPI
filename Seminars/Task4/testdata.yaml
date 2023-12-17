@@ -1,0 +1,6 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+login: 'A135654'
+password: 'b1d96bac50'
+test_email: 'user1@user1.ru'

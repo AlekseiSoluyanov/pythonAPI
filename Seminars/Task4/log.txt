@@ -1,0 +1,28 @@
+2023-12-17 14:12:25 INFO ====== WebDriver manager ======
+2023-12-17 14:12:25 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 14:12:25 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 14:12:25 INFO Driver [C:\Users\Sol\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 14:12:27 INFO Test 1 start
+2023-12-17 14:12:27 INFO send test to element //*[@id="login"]/div[1]/label/input
+2023-12-17 14:12:27 INFO send test to element //*[@id="login"]/div[2]/label/input
+2023-12-17 14:12:27 INFO Click logging button
+2023-12-17 14:12:28 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-12-17 14:12:28 INFO Test 1 start
+2023-12-17 14:12:28 INFO send A135654 to element //*[@id="login"]/div[1]/label/input
+2023-12-17 14:12:28 INFO send b1d96bac50 to element //*[@id="login"]/div[2]/label/input
+2023-12-17 14:12:28 INFO Click logging button
+2023-12-17 14:12:29 INFO We find text Blog in login page //*[@id="app"]/main/div/div/div[2]/h2
+2023-12-17 14:12:29 INFO Test 3 start
+2023-12-17 14:12:30 INFO Click new post button
+2023-12-17 14:12:30 INFO Send Grand Theft Auto VI to element //*[@id="create-item"]/div/div/div[1]/div/label/input
+2023-12-17 14:12:30 INFO Send Vodka to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+2023-12-17 14:12:30 INFO Send ozx5umu6dn4babco3t4i9v4v9xxb37tkozgtj8w7wm5drud8y8otjqi1mfk32jvg9gaiqthy8y624lamgotfh2dlfeg4vdmg8qzl2sx1h5xnzvkoenuiuwun6mpbr60ymgyhesjyylc34y0erc96h0jgvnowpoatd033vmrlrla166xzvpig5v6d3pmd0qkqblcx0ex7 to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+2023-12-17 14:12:30 INFO Click save new post button
+2023-12-17 14:12:32 INFO We find text Grand Theft Auto VI in login page //*[@id="app"]/main/div/div[1]/h1
+2023-12-17 14:12:32 INFO Test 4 start
+2023-12-17 14:12:32 INFO Click Contact button
+2023-12-17 14:12:32 INFO Send LQA8PYECLF to element //*[@id="contact"]/div[1]/label/input
+2023-12-17 14:12:33 INFO Send user1@user1.ru to element //*[@id="contact"]/div[2]/label/input
+2023-12-17 14:12:33 INFO Send d3isnu18uvy3uweij9qhmj832z8c1ywg5ujqoowbuz821ux62l9afz3k0hi0t3s4kpibsi1o1bevvzb3l4fur3agox93yqsgrn09 to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-12-17 14:12:33 INFO Click Send button
+2023-12-17 14:12:35 INFO Switch alert
