@@ -1,0 +1,15 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+login: 'A135654'
+password: 'b1d96bac50'
+test_email: 'user1@user1.ru'
+
+login_api: 'gateway/login'
+post: 'api/posts'
+url: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+title: 'API'
+not_my_title: 'Русские пельмени'
+description: 'Интерфейс программирования приложения'
+content: 'Упрощает процесс программирования при создании приложений, абстрагируя базовую реализацию и предоставляя только объекты или действия, необходимые разработчику.'
